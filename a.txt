@@ -1,2 +1,3 @@
 new file created
 my name is trinath
+1st line added in a.txt
